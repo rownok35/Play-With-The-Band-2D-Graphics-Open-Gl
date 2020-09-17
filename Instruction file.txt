@@ -1,0 +1,14 @@
+Project name: Play with The Band.
+
+project details: While playing a song, the musical symbols will fly on the stage, the guitarist will sing and play guitar at the same time. The drummer will hit at the drum set and the pianist will play the piano. The audiences will enjoy the song.
+
+keyboard functions:
+      
+      1. The guitarist can move using left, right, up, and down arrows 
+      2. press 'l' or 'L' to play a song.
+      3. press 'r' or 'R' to play another song
+      4. press 's' or 'S' to stop the song.
+
+mouse function:
+      1. click the left button to play a song.
+      2. click the right button to play another song.
